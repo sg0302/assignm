@@ -7,7 +7,7 @@ st.title('division of 2 numbers')
 x = st.number_input('Enter first number')
 y = st.number_input('Enter second number')
 if y!=0:
-  st.write(not defined)
-else:
   z=x/y
-st.write(z,"is the result")
+  st.write(z,"is the result")
+else:
+  st.write(not defined)
