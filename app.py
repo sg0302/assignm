@@ -10,4 +10,4 @@ if y!=0:
   z=x/y
   st.write(z,"is the result")
 else:
-  st.write(not defined)
+  st.write('not defined')
